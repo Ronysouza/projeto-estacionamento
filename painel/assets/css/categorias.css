@@ -1,0 +1,160 @@
+.banner_carrossel-categorias{
+	border: 6px solid #022a4f;
+	box-shadow: 0px 0px 8px #022a4f;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.banner_carrossel-categorias img{
+
+}
+
+
+
+.banner-categorias{
+margin: 30px;
+
+
+}
+
+.banner-categorias p{
+	color: #022a4f;
+	font-size:  25px;
+	color: #363636;
+	 
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner-categorias h1{
+	color: #022a4f;
+	font-style: 20px;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+
+
+
+
+.categorias-item{
+	text-align: left;
+}
+
+.categorias-item strong{
+
+
+	font-size: 20px;
+	color: #022a4f;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.categorias-item p{
+	font-size: 20px;
+	font-weight: 400;
+	color: #363636;
+}
+
+.banner-h1-info-categorias h1{
+
+   font-weight: 700;
+  color: #022a4f;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.banner-h1-info-categorias p{
+
+	  color: #363636;
+	  font-size: 14px;
+	  font-family: Arial, Helvetica, sans-serif;
+	  letter-spacing: 1.1px;
+	 
+}
+
+.banner-categorias-info{
+     
+     max-width: 400px;
+     width: 100%;
+	background-color: #022a4f;
+	padding: 10px;
+	border-radius: 5px;
+
+	
+}
+.banner-categorias-info h1{
+
+	color: #fff;
+	font-size: 25px;
+}
+
+.span-1{
+	font-size: 15px;
+}
+
+.banner-acessorios-info h1{
+font-weight: 700;
+  color: #022a4f;
+
+}
+.acessorios-info{
+
+  color: #363636;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.botao_contato button{
+	width: 100%;
+	font-size: 25px;
+}
+
+.mapa-info h1{
+	padding: 100px;
+	color: #fff;
+	font-weight: 700;
+}
+
+.mapa-info-banner{
+background-image: url(http://localhost/estacionamento/assets/images/mapa.jpg);
+
+}
+
+.mapa-info{
+
+	 margin-top: 70px;
+	 margin-bottom: 70px;
+	background-size: cover;
+	text-align: center;
+	z-index: 0;
+	transition: 0.5s;
+
+}
+.mapa-info:hover{
+	transition: 0.5s;
+	cursor: pointer;
+	background-color:rgba(0,0,0,0.3);
+	z-index: 1;
+}
+
+.center img{
+
+	margin-left: 5px;
+	margin-right: 5px;
+
+}
+.slider-nav{
+	cursor: pointer;
+}
+
+.slider-nav button{
+	display: none;
+}
+
+.acessorios-info {
+   background-color: #ddd;
+   margin: 10px;
+   padding: 5px;
+   color: #000;
+   line-height: 50px;
+
+}

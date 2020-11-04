@@ -1,0 +1,88 @@
+#vazio{
+
+	margin-top: 100px;
+	margin-bottom: 200px;
+	text-align: center;
+	padding: 30px;
+
+}
+
+#vazio h1{
+	color: #363636;
+	font-size:20px;
+}
+
+.info-banner{
+
+	display: inline-block;
+	margin: 10px;
+	 
+	 
+}
+.info-banner h2{
+	background-color: #87CEFA;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+
+.info-banner p{
+	background-color: #ddd;
+	padding: 10px;
+	color: #022a4f;
+	font-style: italic;
+	font-size: 18px;
+}
+
+.marcas-banner img{
+	border: 1px solid #ddd;
+	padding: 10px;
+	margin: 10px;
+
+}
+.marcas-banner{
+	border-bottom: 1px solid #ddd;
+	border-left: 3px solid #363636;
+	border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+	margin: 20px;
+}
+
+.info-banner h1{
+	font-weight: 700;
+	color: #363636;
+}
+
+.info-banner h2{
+	color: #fff;
+	font-weight: 700;
+}
+
+.info-banner span{
+	font-size: 25px;
+}
+.banner-h1-marca{
+
+
+	font-weight: 600;
+	font-style: italic;
+	margin: 50px;
+	color: #999
+}
+
+.img-marca{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	transition: 0.05s;
+}
+
+.img-marca:hover{
+
+transition: 0.05s;
+   transform: scale(1.04);
+
+ 
+
+
+}

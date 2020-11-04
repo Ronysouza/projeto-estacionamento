@@ -1,0 +1,28 @@
+.sobre_container h1{
+
+
+	margin: 50px;
+	font-weight: 700;
+	
+	
+
+}
+
+.sobre_container p{
+	font-size: 20px;
+	color: #999;
+}
+
+
+.banner-sobre{
+        
+		background-image: url(http://localhost/estacionamento/assets/images/banner-sobre.jpg);
+		background-position: center;
+}
+
+.banner-sobre h2{
+	padding:  100px;
+	color: #fff;
+	font-size: 70px;
+	font-weight: 700;
+}

@@ -1,0 +1,26 @@
+.banner-ano-h1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #999;
+
+}
+
+.ano-info{
+	background-color: #ddd;
+
+
+}
+
+.ano-info:hover{
+	background-color: #999
+
+}
+
+.ano-info h2{
+	padding: 10px;
+	color: #363636;
+	font-weight: 700
+}
+
+
+

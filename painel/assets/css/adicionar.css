@@ -1,0 +1,60 @@
+.adicionar_info{
+	 border: 1px solid #ddd;
+	 border-left: 3px solid #363636;
+	 padding: 20px;
+}
+
+.banner-input{
+
+	padding: 10px;
+}
+
+
+.banner-input-info span{
+	font-size: 18px;
+
+}
+.banner-input-info{
+	padding: 10px;
+	font-weight: 600;
+	color: #363636;
+
+}
+.banner-input-info span{
+	margin-bottom:10px;
+}
+
+.banner-input-info input{
+	margin-top: 5px;
+	border:1px solid #ddd;
+	border-radius: 4px;
+	width: 100%;
+}
+.banner-input-info select{
+
+margin-top: 5px;
+	border:1px solid #ddd;
+	border-radius: 4px;
+	width: 100%;
+	padding: 10px;
+
+}
+.add_ano input{
+margin: 0;
+padding: 5px;
+border:1px solid #999;
+}
+
+.add_ano_info{
+	border:1px solid #999;
+	display: inline-block;
+	margin: -4px;
+padding: 5px;
+border-bottom-right-radius: 3px;
+border-top-right-radius: 3px;
+}
+
+.add_ano_info:hover{
+	background-color: #ddd;
+}
+

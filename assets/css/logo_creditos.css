@@ -1,0 +1,18 @@
+
+.logo_rodape_info {
+
+	opacity: 0.4;
+	transition: 0.5s;
+}
+
+.logo_rodape_info:hover{
+   transition: 0.5s;
+	opacity: 1;
+}
+
+
+.logo_rodape_info a{
+	color: #000;
+
+
+}

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('assets/images/ArialNarrow.woff2')     
+        url('assets/images/ArialNarrow.woff2') format('woff2'),
+        url('assets/images/ArialNarrow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+
+	font-family:Arial Narrow !important;
+}
+
+
+
+.painel-topo{
+	background-color: #363636;
+	
+	 
+}
+
+.painel-topo div{
+	display: inline-block;
+	padding: 5px;
+}
+
+.painel-topo a{
+	color: #999;
+	font-size: 20px;
+}
+
+.painel-topo a:hover{
+	color: #fff;
+	 
+}

@@ -1,0 +1,21 @@
+.banner-listar{
+	border-left: 4px solid #363636;
+	border-bottom-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+}
+
+.table-listar th{
+	width: 20%;
+}
+
+
+
+.imagen-listar{
+
+	border:8px solid #EEE8AA;
+}
+
+ .banner-input-info input{
+ 	padding: 10px;
+ 	color: #000;
+ }
